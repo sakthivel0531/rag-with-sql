@@ -1,0 +1,6 @@
+@RagWithSql_HostAddress = http://localhost:5030
+
+GET {{RagWithSql_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
